@@ -3,11 +3,12 @@ title: Great coffee with a conscience
 subtitle: Support sustainable farming while enjoying a cup
 image: img/about-direct-sourcing.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Why Y0NG?
+  text: This is only a test. Don't believe anything on this page. Kaldi is the
+    coffee store for everyone who believes that great coffee shouldn't just
+    taste good, it should do good too. We source all of our beans directly from
+    small scale sustainable farmers and make sure part of the profits are
+    reinvested in their communities.
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
